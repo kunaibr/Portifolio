@@ -1,4 +1,4 @@
-# Portifolio
+# Portifolio - Gabriel de Oliveira Conti - Programmer
 
 [Orion Arena](https://gamejolt.com/games/orionarena/498826)
 
